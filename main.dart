@@ -1,15 +1,4 @@
-/*
-Application 1
-50 pts - 10 each question
-Create an mobile app that meets the following criteria:
-1. It must have a minimum of two pages.
-2. It must include a minimum of two pictures.
-3. One page must include tabs with a minimum of two tabs.
-4. Every page must include text.
-5. Creativity and content count towards points
-The topic can be on the topic of your choice.
-If you copy information from the internet, please note the source.
- */
+
 import 'package:flutter/cupertino.dart';
 import 'package:flutter/material.dart';
 
